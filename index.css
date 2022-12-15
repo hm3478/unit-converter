@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: auto;
+}
+
+body{
+    font-style: bold;
+    
+    
+}
+
+h1{
+    text-align: center;
+    color: black;
+   
+}
+
+#container{
+
+    text-align: center;
+    
+    width: 80%;
+    background-color: lightcyan;
+    border-radius: 10px;
+    border-style: double;
+    margin: 15px auto 0px auto;
+}
+
+.inpu-div{
+
+    margin-top: 2%;
+    margin-bottom: 4%;
+    color: blueviolet;
+    font-style: bold;
+    display: inline-block;
+}
+#ft{
+    font-size: larger;
+    padding: 10%;
+
+}
+#inc{
+    font-size: larger;
+    padding: 10%;
+}
+.inpt{
+    padding: 5px 10px;
+    border-radius: 10px;
+    text-align: center;
+}
